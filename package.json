@@ -60,6 +60,6 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@ui5/webcomponents": "1.10.3",
-    "core-js": "^3.26.1"
+    "core-js": "^3.30.1"
   }
 }
